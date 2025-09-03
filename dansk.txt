@@ -1,5 +1,5 @@
-d dane
+d dance
 a actor
-n news
+n name
 s silver
 k knew
